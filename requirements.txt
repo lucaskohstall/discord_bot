@@ -1,0 +1,7 @@
+discord
+python-dotenv
+requests
+discord-py-interactions
+lib
+sec-api
+replicate
